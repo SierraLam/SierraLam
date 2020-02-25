@@ -2,14 +2,14 @@
 ##### sierra4lam@gmail.com | 540-423-7791 | 24 Valewood Lane Amissville, VA 20106
 ***
 ## Summary 
-> Driven toward making a difference for the betterment of people around me. I thrive in structured environments with clear expectations. My life experiences have taught me the value of selfless leadership and intentional community.
+> Driven toward making a difference for the betterment of people around me. I thrive in structured environments with clear expectations. My life experiences have taught me the value of selfless leadership and intentional community. <br/>
 ***
 ## Skills 
 |   |  |  |
 |---|---|---|
 | Team Oriented  | Determined |  Natural Leader |
 | Loyal  |  Eager to Learn |  Creative |
-| Teachable  |  Analytical  |  Dedicated |
+| Teachable  |  Analytical  |  Dedicated | <br/>
 ***
 ## Experience and Leadership 
 > ### Production Intern:
@@ -26,7 +26,7 @@
 > > - Cultivated a passion for different cultures 
 > ### Liberty University Women's Soccer
 > > - All Freshman Team in 2016
-> > - Member of the Captains Council from 2017-2019
+> > - Member of the Captains Council from 2017-2019 <br/>
 ***
 ## Education
 > ### Bachelor of Science: Interdisciplinary Studies | Expected in 05/2020
@@ -35,5 +35,5 @@
 > > - 3.5 GPA  
 > > - Trained in Cultural Intelligence (Cultural Intelligence (CQ) is a person’s capability to           function effectively in a variety of cultural contexts – both internationally and                   domestically)
 > > -	Anticipated basic understanding of Java and C++ by May 2020
-> > -	Anticipated completion of 3 object-oriented programming classes by May 2020 
+> > -	Anticipated completion of 3 object-oriented programming classes by May 2020 <br/>
 ***
