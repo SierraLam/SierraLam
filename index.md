@@ -30,7 +30,7 @@
 ***
 ## Education
 > ### Bachelor of Science: Interdisciplinary Studies | Expected in 05/2020
-> Liberty University | Lynchburg, VA
+> Liberty University | Lynchburg, VA | Expected in 05/2020
 > > - Disciplines studied: Social Sciences, Religion, Sport Management
 > > - 3.5 GPA  
 > > - Trained in Cultural Intelligence (Cultural Intelligence (CQ) is a person’s capability to           function effectively in a variety of cultural contexts – both internationally and                   domestically)
