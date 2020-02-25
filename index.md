@@ -5,9 +5,11 @@
 > Driven toward making a difference for the betterment of people around me. I thrive in structured environments with clear expectations. My life experiences have taught me the value of selfless leadership and intentional community.
 ***
 ## Skills 
->  Team Oriented      Determined       Natural Leader
->  Loyal              Eager to learn   Creative thinker
->  Teachable          Analytical       Dedicated
+|   |  |  |
+|---|---|---|
+| Team Oriented  | Determined |  Natural Leader |
+| Loyal  |  Eager to Learn |  Creative |
+| Teachable  |  Analytical  |  Dedicated |
 ***
 ## Experience and Leadership 
 > ### Production Intern:
